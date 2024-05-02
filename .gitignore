@@ -1,0 +1,6 @@
+config.json
+.vscode/
+transformers_cache/
+gradio_cached_examples/
+chroma/
+storage/
